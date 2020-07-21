@@ -1,3 +1,7 @@
+#!/usr/bin/env python
+
+__author__ = 'Keith Garcia, Co-Author: Ben McKenzie, teaching Triston Reeves later'
+
 
 import requests
 import turtle
