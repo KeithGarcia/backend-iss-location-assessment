@@ -32,7 +32,7 @@ def init_turtle():
     display.register_shape('iss.gif')
 
     iss.goto(-86.1581, 39.7684)
-    iss.dot(4, "red")
+    iss.dot(4, "yellow")
     iss.color('blue')
     iss.shape("iss.gif")
     iss.penup()
